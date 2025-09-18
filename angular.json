@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "diprefranco.github.io": {
+    "ashutosh-portfolio": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/diprefranco.github.io",
+            "outputPath": "dist/ashutosh-portfolio",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -57,10 +57,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "diprefranco.github.io:build:production"
+              "buildTarget": "ashutosh-portfolio:build:production"
             },
             "development": {
-              "buildTarget": "diprefranco.github.io:build:development"
+              "buildTarget": "ashutosh-portfolio:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -68,7 +68,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "diprefranco.github.io:build"
+            "buildTarget": "ashutosh-portfolio:build"
           }
         },
         "test": {
