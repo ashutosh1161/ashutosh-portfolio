@@ -1,39 +1,58 @@
-My Personal Website
-============
-Welcome! This project showcases my personal website, where you can find information about me, my experience, and my work. It’s built using Angular and serves as a starting point if you’d like to create your own personal website. If you're interested, feel free to use this project or start with my [Angular Template For My Website](https://github.com/diprefranco/angular-template-my-website).
+🌐 My Personal Website
 
-## Demo
-https://diprefranco.github.io/
+Welcome! This repository contains the source code for my personal website, where you can learn more about me, my experience, and the work I’ve done.
 
-# ![Website Screenshot](https://github.com/diprefranco/diprefranco.github.io/blob/main/src/assets/img/website.png)
+The website is built using Angular and can also serve as a great starting point if you’d like to create your own personal portfolio website.
+If you're interested, feel free to use this project or start with my Angular template:
 
-## Website Overview
-The website opens with a header and main section (hero section) to catch attention right away, giving users easy access to my experience and contact options.
+🔗 Angular Template for My Website
 
-The main sections include:
-- **Experience**: a timeline with a brief overview of my work history.
-- **Projects**: cards showcasing my personal projects.
-- **About Me**: a short description about me.
-- **Contact**: various ways to reach me.
+🚀 Demo
+🔗 https://github.com/ashutosh1161/
 
-The footer contains the site icon, navigation links, and contact icons. The entire site is **responsive** and adjusts to different screen sizes.
+🖼️ Website Preview
 
-## Usage
-To run the site locally, clone this repository and navigate to the root directory. Then, install the dependencies with:<br />
-`npm install`
 
-Start the application with:<br />
-`npm start`
+📌 Website Overview
 
-## Version Information
-This project was built with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+The website opens with a header and hero section, designed to immediately capture attention and provide quick access to my experience and contact information.
 
-## Acknowledgments
-This design was inspired by work from [Sajid](https://www.iamsajid.com/). I want to thank him for his videos and examples.<br />
-Check out [Sajid's YouTube channel](https://www.youtube.com/@whosajid) to learn some great web design basics and tricks.
+Main Sections
 
-## Author
-GitHub: [Franco Dipre](https://github.com/diprefranco/)
+Experience — A timeline highlighting my work history
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+Projects — Cards showcasing my personal projects
+
+About Me — A brief introduction about who I am
+
+Contact — Multiple ways to get in touch
+
+The footer includes the site icon, navigation links, and contact icons.
+The entire website is fully responsive and adapts smoothly to different screen sizes.
+
+⚙️ Usage
+
+To run this project locally:
+
+Clone the repository
+
+Navigate to the project root directory
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm start
+
+🧩 Version Information
+
+Built with Angular CLI v17.1.2
+🔗 https://github.com/angular/angular-cli
+
+👤 Author
+
+Ashutosh Kumar
+GitHub: https://github.com/ashutosh1161
