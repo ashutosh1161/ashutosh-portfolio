@@ -8,10 +8,10 @@ If you're interested, feel free to use this project or start with my Angular tem
 🔗 Angular Template for My Website
 
 🚀 Demo
-🔗 https://github.com/ashutosh1161/
+🔗 https://ashutosh1161.github.io/ashutosh-portfolio/
 
 🖼️ Website Preview
-
+![Website Screenshot](https://github.com/ashutosh1161/ashutosh-portfolio/blob/main/src/assets/img/website.png)
 
 📌 Website Overview
 
